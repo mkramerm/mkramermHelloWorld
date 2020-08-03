@@ -1,4 +1,5 @@
-#include "stats.h"
+// Copyright 2020 @mkramerm
+#include "common/stats.h"
 
 #include <stdlib.h>
 #include <stdio.h>
